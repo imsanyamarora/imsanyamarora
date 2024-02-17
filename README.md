@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsanyamarora&label=Profile%20views&color=0e75b6&style=flat" alt="imsanyamarora" /> </p>
 
-- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React**
 
 - 📫 How to reach me **sanyamarora1510@gmail.com**
 
