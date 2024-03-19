@@ -1,6 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sanyam</h1>
 <h3 align="center">Front-End Developer</h3>
+<h3 align="center">💬 Ask me about : JavaScript, React, HTML, CSS </h3>
+
+<h3 align="center">🌬Curiosity never ends, so does the learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsanyamarora&label=Profile%20views&color=0e75b6&style=flat" alt="imsanyamarora" /> </p>
 
