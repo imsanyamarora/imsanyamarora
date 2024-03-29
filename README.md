@@ -17,9 +17,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-white.svg?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-white.svg?style=for-the-badge&logo=express&logoColor=000000" alt="Express.js"/></a>
 
 <h3>Database</h3>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/></a>
 
 <h3>Version Control & CI/CD</h3>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
