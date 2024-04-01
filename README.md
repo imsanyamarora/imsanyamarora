@@ -32,6 +32,8 @@
 <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/-gitlab-white?logo=gitlab&logoColor=FCA121&style=for-the-badge" alt="gitlab"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=2496ED&style=for-the-badge" alt="docker"/></a>
 
+<h3>API Development & Testing</h3>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-white.svg?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/></a>
 
 <h3>Cloud & Hosting</h3>
 
