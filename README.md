@@ -20,7 +20,6 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
 
 <h3>Database</h3>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/></a>
 
 <h3>Version Control & CI/CD</h3>
